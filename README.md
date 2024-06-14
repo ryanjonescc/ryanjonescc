@@ -17,5 +17,5 @@
 [<img align="left" alt="Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/prezz111
-[instagram]: https://www.instagram.com/
+[instagram]: https://www.instagram.com
  [linkedin]: https://www.linkedin.com/in/ryan-jones-40a995275
