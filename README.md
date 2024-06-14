@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi, I'm Ryan, an IT professional
 
 <!--
 **ryanjonescc/ryanjonescc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
