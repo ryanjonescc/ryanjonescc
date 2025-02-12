@@ -15,9 +15,4 @@
 www.linkedin.com/in/
 ryan-jones-40a995275
 
-
-
-
-
-
  [linkedin]: https://www.linkedin.com/in/ryan-jones-40a995275
