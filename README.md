@@ -12,6 +12,8 @@
 
 <h2>🤳Connect with me:</h2>
 
+www.linkedin.com/in/
+ryan-jones-40a995275
 
 
 
