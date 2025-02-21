@@ -9,10 +9,7 @@
 - <b>Microsoft Azure</b>
   - [Configuring Active Directory within Azure VMs](https://github.com/ryanjonescc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/ryanjonescc/azure-network-protocols)
-
+  - [Network File Shares and Permissions](https://github.com/https://github.com/ryanjonescc/ryanjonescc/Network-File-Shares-and-Permissions)
 <h2>🤳Connect with me:</h2>
 
-www.linkedin.com/in/
-ryan-jones-40a995275
-
- [linkedin]: https://www.linkedin.com/in/ryan-jones-40a995275
+ [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
